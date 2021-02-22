@@ -1,5 +1,9 @@
 [![brandon_wallace's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/brandonwallace)
 
+<a href="https://dev.to/brandonwallace">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="brandon_wallace's DEV Community Profile" height="30" width="30">
+</a>
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/brandon-wallace)
 
 <!--
