@@ -4,7 +4,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="brandon_wallace's DEV Community Profile" height="50" width="50">
 </a>
 
-Support My Work: ![PayPal](paypal.me/brandongwallace)
+Support My Work: <a href="paypal.me/brandongwallace">PayPal</a>
 
 <!--
 **brandon-wallace/brandon-wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
