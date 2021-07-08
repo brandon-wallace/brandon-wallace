@@ -22,7 +22,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandon-wallace&show_icons=true&locale=en&layout=compact" alt="brandon-wallace" /></p>
 -->
 
-[Support My Work](https://paypal.me/brandongwallace)
+
+| [Support My Work](https://paypal.me/brandongwallace) |
+| ------ |
 
 <!--
 **brandon-wallace/brandon-wallace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
