@@ -1,16 +1,5 @@
 ![profile-image-800.jpg](https://i.postimg.cc/TPmpMZ32/profile-image-800.jpg)
 
-<h3 align="left">Connect:</h3>
-
-<p align="left">
-<a href="https://dev.to/brandonwallace" target="_blank">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="brandon_wallace's DEV Community Profile" height="50" width="50">
-</a>
-<a href="https://codepen.io/brandon_wallace" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brandon_wallace" height="50" width="50" />
-</a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
@@ -25,6 +14,17 @@
 <!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=brandon-wallace&show_icons=true&locale=en&layout=compact" alt="brandon-wallace" /></p>
 -->
+
+<h3 align="left">Connect:</h3>
+
+<p align="left">
+<a href="https://dev.to/brandonwallace" target="_blank">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="brandon_wallace's DEV Community Profile" height="50" width="50">
+</a>
+<a href="https://codepen.io/brandon_wallace" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brandon_wallace" height="50" width="50" />
+</a>
+</p>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/brandon-wallace)
 
