@@ -1,4 +1,4 @@
-![mechanical-keyboard.jpg](https://i.postimg.cc/MKNjxNdW/mechanical-keyboard.jpg)
+![mechanical-keyboard.jpg](https://i.ibb.co/L6Trb6S/mechanical-keyboard.jpg)
 
 <h3 align="left">Languages and Tools:</h3>
 
